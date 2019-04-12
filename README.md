@@ -2,3 +2,5 @@
 
 英文名称：	Joint inversion of ambient noise and teleseismic body-wave for linear arrays based on adjoint tomography: Methodology and applications
 
+
+ ![image](https://github.com/ustcchaozhang/image_fold/blob/master/workflow_1.jpg)
